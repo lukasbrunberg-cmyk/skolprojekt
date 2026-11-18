@@ -1,0 +1,44 @@
+<body>
+
+<h2>Dagens uppgift att göra och lämna in</h2>
+
+<table border="1">
+
+<tr>
+    <td colspan="3" align="center" bgcolor="deepskyblue">
+        <img src="Superman.svg" alt="Superman" width="700">
+    </td>
+</tr>
+
+<tr>
+    <td bgcolor="black">
+        <img src="CR.jpg" alt="Christopher Reeve" width="255" height="210">
+        <br>
+        <font color="white">
+            Christopher Reeve<br>
+            1952-2004
+        </font>
+    </td>
+
+    <td bgcolor="red" align="center">
+        <font color="gold" size="5">
+            Huvudpersonerna<br>
+            Clark Kent och Lois Lane<br>
+            i<br>
+            originalfilmen från 1978
+        </font>
+    </td>
+
+    <td bgcolor="khaki">
+        <img src="MK.jpg" alt="Margot Kidder" width="255" height="210">
+        <br>
+        <font color="black">
+            Margot Kidder<br>
+            1948-2018
+        </font>
+    </td>
+</tr>
+
+</table>
+
+</body>
